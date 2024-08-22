@@ -1,1 +1,2 @@
-# avalia-o-de-imagens-atrav-s-de-IA-generativa
+# avaliação-de-imagens-atraves-de-IA-generativa
+
