@@ -1,0 +1,1 @@
+# avalia-o-de-imagens-atrav-s-de-IA-generativa
